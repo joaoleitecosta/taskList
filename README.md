@@ -1,4 +1,4 @@
-# todo
+First flutter app to list tasks
 
 A new Flutter project.
 
